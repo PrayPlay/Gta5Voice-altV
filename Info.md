@@ -17,11 +17,11 @@ Ich empfehle das System nicht als einzelne Resource zu implementieren, sondern i
 #### WICHTIG!
 
 ---
-Das Gta5Voice Plugin darf erst verwendet werden, wenn ihr euch bei Gta5Voice (KW) die Lizenz zur Verwendung abgeholt habt. Andersweitig dürft ihr diese alt:V Version nicht verwenden!
+# Das Gta5Voice Plugin darf erst verwendet werden, wenn ihr euch bei Gta5Voice (KW) die Lizenz zur Verwendung abgeholt habt. Andersweitig dürft ihr diese alt:V Version nicht verwenden!
 ---
-The Gta5Voice plugin may only be used if you have picked up the license for use from Gta5Voice (KW). Otherwise you may not use this alt: V version!
+# The Gta5Voice plugin may only be used if you have picked up the license for use from Gta5Voice (KW). Otherwise you may not use this alt: V version!
 ---
-Le plugin Gta5Voice ne peut être utilisé que si vous avez récupéré la licence d'utilisation de Gta5Voice (KW). Sinon, vous ne pouvez pas utiliser cette version alt: V!
+# Le plugin Gta5Voice ne peut être utilisé que si vous avez récupéré la licence d'utilisation de Gta5Voice (KW). Sinon, vous ne pouvez pas utiliser cette version alt: V!
 
 
 #### HAVE FUN
